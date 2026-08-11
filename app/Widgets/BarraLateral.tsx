@@ -1,8 +1,16 @@
+"use client"
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ItemBarraLateral from "../Components/ItemBarraLateral";
 import { faBook, faCalendarDays, faChartBar, faChartLine, faFile, faSliders, faTableCellsLarge, faWrench } from "@fortawesome/free-solid-svg-icons";
 
-export default function BarraLateral(){
+interface BarraLateralProps{
+    selected?: number
+    onSelect?: (id: number) => void
+}
+
+export default function BarraLateral(props: BarraLateralProps){
+    const selected = props.selected ?? 1
     const itens = [
         {icone: <FontAwesomeIcon icon={faTableCellsLarge}/>, texto: "Visão Geral"},
         {icone: <FontAwesomeIcon icon={faSliders}/>, texto: "OKRs & Ações"},
@@ -17,7 +25,11 @@ export default function BarraLateral(){
         <aside className="p-2 w-60 bg-[#1f252a] flex flex-col gap-3">
             {itens.map((item, index) =>{
                 return(
-                    <ItemBarraLateral key={`link${index}`} id={index+1} texto={item.texto}>
+                    <ItemBarraLateral
+                        key={`link${index}`} id={index+1} texto={item.texto}
+                        isActive={(index+1) === selected}
+                        onClick={() => props.onSelect ? props.onSelect(index+1) : undefined}
+                    >
                         {item.icone}
                     </ItemBarraLateral>
                 )

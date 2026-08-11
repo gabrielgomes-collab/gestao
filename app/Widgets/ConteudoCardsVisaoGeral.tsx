@@ -14,7 +14,7 @@ export default function ConteudoCardsVisaoGeral(){
         <div className="w-full flex justify-between">
             {dadosCard.map((item, index) =>{
                 return(
-                    <CardVisaoGeral id={index} key={index} titulo={item.titulo} numero={item.numero} subtitulo={item.subtitulo} corTexto={item.corTexto} corFundoIcon={item.corFundoIcon}>
+                    <CardVisaoGeral id={index+1} key={index} titulo={item.titulo} numero={item.numero} subtitulo={item.subtitulo} corTexto={item.corTexto} corFundoIcon={item.corFundoIcon}>
                         {item.icone}
                     </CardVisaoGeral>
                 )

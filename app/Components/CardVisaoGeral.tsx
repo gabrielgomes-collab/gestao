@@ -15,10 +15,10 @@ export default function CardVisaoGeral(props: CardVisaoGeralProps){
     let numero: number | string = props.numero
     let tamanhoTexto = "text-4xl"
 
-    if(props.id == 0){
+    if(props.id == 1){
         numero = String(numero)+"%"
     }
-    else if(props.id == 4){
+    else if(props.id == 5){
         numero = "R$ " + String(numero)
         tamanhoTexto = "text-2xl"
     }
