@@ -19,11 +19,11 @@ export default function CardVisaoGeral(props: CardVisaoGeralProps){
         numero = String(numero)+"%"
     }
     else if(props.id == 5){
-        numero = "R$ " + String(numero)
+        numero = "R$ " + String(Number(numero).toLocaleString('pt-BR'))
         tamanhoTexto = "text-2xl"
     }
     return(
-        <div className="rounded-lg shadow-md bg-white w-70 h-35 flex px-4 py-6">
+        <div className="rounded-lg shadow-md bg-white w-70 h-35 flex px-4 py-6 hover:scale-102 transition-all duration-350">
             <div className="flex flex-col w-[85%] gap-2 ">
                 <p className="text-sm font-bold text-gray-500">{props.titulo}</p>
                 <h2 className={`${tamanhoTexto} font-bold ${props.corTexto}`}>{numero}</h2>

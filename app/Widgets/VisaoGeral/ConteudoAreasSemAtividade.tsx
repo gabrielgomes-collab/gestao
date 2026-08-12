@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import AreaSemAtividade from "../Components/AreaSemAtividade"
+import AreaSemAtividade from "../../Components/VisaoGeral/AreaSemAtividade"
 import { faHourglassHalf } from "@fortawesome/free-solid-svg-icons"
 
 export default function ConteudoAreasSemAtividade() {

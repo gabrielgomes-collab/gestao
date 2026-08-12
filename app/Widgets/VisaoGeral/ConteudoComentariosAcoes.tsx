@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faComments } from "@fortawesome/free-solid-svg-icons"
-import AreaComentarioAcoes from "../Components/AreaComentarioAcoes"
+import AreaComentarioAcoes from "../../Components/VisaoGeral/ComentarioAcoes"
 
 export default function ConteudoAreasComentarioAcoes() {
     const vezes = [0, 1, 2, 3, 4]

@@ -6,13 +6,13 @@ interface HeaderProps {
 }
 
 export default function Header(props: HeaderProps) {
-    const areas = ["Executivo", "Operacional", "Comercial", "Marketing", "Suprimentos", "Fiscal/Financeiro"]
+    const areas = ["Executivo", "Operacional", "Comercial", "Marketing", "Suprimentos", "Fiscal/Financeiro", "Gestão de Pessoas", "SGI", "R3use", "Infraestrutura", "Recebimento/Expedição", "Gestão de Resíduos", "Logística", "Tecnologia"]
     return (
         <header className={`${props.estilos} w-full bg-[#0d1417] font-bold p-0.5 flex items-center justify-between px-7 shadow-md dark:bg-[#131516]`}>
             
             {/* Parte à esquerda do header */}
             <div className="flex items-center gap-4">
-                <Link href="/" className="hover:opacity-80 transition-opacity flex items-center gap-3">
+                <Link href="/" className="hover:opacity-80 transition-opacity flex items-center gap-3" onClick={() => window.location.reload()}>
                     <svg width="24" height="24" viewBox="0 0 40 40" aria-hidden="true">
                         <path d="M20 6 a14 14 0 0 1 12 7" fill="none" stroke="#5DBE52" strokeWidth="5" strokeLinecap="round" />
                         <path d="M33 18 a14 14 0 0 1 -7 14" fill="none" stroke="#23B5C0" strokeWidth="5" strokeLinecap="round" />
