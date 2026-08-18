@@ -3,10 +3,16 @@ import Link from "next/link";
 interface HeaderProps {
     children?: React.ReactNode;
     estilos?: string;
+    informarDepartamento: (departamento: string) => void
 }
 
 export default function Header(props: HeaderProps) {
     const areas = ["Executivo", "Operacional", "Comercial", "Marketing", "Suprimentos", "Fiscal/Financeiro", "Gestão de Pessoas", "SGI", "R3use", "Infraestrutura", "Recebimento/Expedição", "Gestão de Resíduos", "Logística", "Tecnologia"]
+
+    function informarDepartamentoSelecionado(departamento: string){
+        props.informarDepartamento(departamento)
+    }
+    
     return (
         <header className={`${props.estilos} w-full bg-[#0d1417] font-bold p-0.5 flex items-center justify-between px-7 shadow-md dark:bg-[#131516]`}>
             
@@ -39,9 +45,28 @@ export default function Header(props: HeaderProps) {
 
             {/* Parte à direita do header */}
             <div className="text-white">
-                <select name="" id="" className="bg-[#106b66] p-2 my-2 rounded-lg">
+                <select name="" id="" className="bg-[#106b66] p-2 my-2 rounded-lg" onChange={(e) => informarDepartamentoSelecionado(e.target.value)}>
                     {areas.map((item, index) =>{
-                        return <option value={item} key={index} className="bg-[#0d1417] font-bold">{item}</option>
+                        let itemValue
+                        if(item == "Fiscal/Financeiro"){
+                            itemValue = "fiscal_financeiro"
+                        }
+                        else if(item == "Recebimento/Expedição"){
+                            itemValue = "recebimento_expedicao"
+                        }
+                        else if(item == "Gestão de Pessoas"){
+                            itemValue = "gestao_de_pessoas"
+                        }
+                        else if(item == "Gestão de Resíduos"){
+                            itemValue = "gestao_de_residuos"
+                        }
+                        else if (item == "Logística"){
+                            itemValue = "logistica"
+                        }
+                        else{
+                            itemValue = item.toLocaleLowerCase()
+                        }
+                        return <option value={itemValue} key={index} className="bg-[#0d1417] font-bold">{item}</option>
                     })}
                 </select>
             </div>

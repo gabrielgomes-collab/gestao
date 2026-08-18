@@ -5,6 +5,7 @@ interface KrCardProps {
     numeroKr: number
     titulo: string
     subtitulo: string
+    progresso: number
 }
 
 export default function KrCard(props: KrCardProps) {
@@ -18,9 +19,9 @@ export default function KrCard(props: KrCardProps) {
                 <p className="text-sm text-gray-600">{props.subtitulo}</p>
             </div>
             <div className="flex flex-col items-end ml-auto w-45">
-                <p className="text-[#106b66] font-bold text-lg">34%</p>
+                    <p className="text-[#106b66] font-bold text-lg">{props.progresso}%</p>
                 <div className="w-full rounded-lg border border-[#106b66] h-4">
-                    <div className="w-[80%] rounded-md bg-[#106b66] h-full"></div>
+                    <div style={{width: `${props.progresso}%`}} className="rounded-md bg-[#106b66] h-full transition-all"></div>
                 </div>
                 <div className="mt-3 flex items-center justify-center w-8 h-8 rounded-full
                 hover:bg-[#e6f4f1] hover:cursor-pointer hover:transition-all duration-200">

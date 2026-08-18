@@ -1,0 +1,10 @@
+{
+    "areas":[
+        {"departamento": "Executivo", "dias_sem_atividade": 26},
+        {"departamento": "Operacional", "dias_sem_atividade": 29},
+        {"departamento": "Comercial", "dias_sem_atividade": 12},
+        {"departamento": "SGI", "dias_sem_atividade": 15},
+        {"departamento": "R3use", "dias_sem_atividade": 0},
+        {"departamento": "Tecnologia", "dias_sem_atividade": 25}
+    ]
+}

@@ -1,0 +1,125 @@
+{
+  "executivo": [
+    {
+      "kr": 1,
+      "acao": "Contratar serviço jurídico para direcionamento dos processos…",
+      "comentario": "Escritório Jurídico Franca Villa"
+    },
+    {
+      "kr": 1,
+      "acao": "Elaborar e assinar contrato de aquisição",
+      "comentario": "Contato realizado para verificação do status 08/05/2026 (Aguardando retorno / Contato realizado para verificação do status em 20/05/2026 - Recebido contratos para análise em 27/05/2026 e..."
+    },
+    {
+      "kr": 1,
+      "acao": "Pagar pelo total das 22 parcelas referente a recompra",
+      "comentario": "Pagamentos 1ª Parcela 30/07/2026 2ª Parcela 30/08/2026"
+    },
+    {
+      "kr": 2,
+      "acao": "Mapear e abordar empresas-alvo (indústrias, fabricantes e in…",
+      "comentario": "Empresa RP Ambiental Logística Reversa Ltda."
+    },
+    {
+      "kr": 2,
+      "acao": "Verificar junto ao cliente Huawei a possibilidade de enviar…",
+      "comentario": "Recebido e-mail do cliente sobre a validação da atualização do documento/fluxograma"
+    },
+    {
+      "kr": 2,
+      "acao": "Enviar para RP Ambiental lote piloto de baterias de íon-líti…",
+      "comentario": "Enviado 3.855 Kgs de baterias"
+    }
+  ],
+  "operacional": [
+    {
+      "kr": 1,
+      "acao": "Ajustar fluxo de triagem de materiais",
+      "comentario": "Novo layout implantado na linha 2"
+    }
+  ],
+  "comercial": [
+    {
+      "kr": 1,
+      "acao": "Renovar contrato com os principais clientes regionais",
+      "comentario": "Reunião agendada com diretoria comercial para 15/06"
+    }
+  ],
+  "marketing": [
+    {
+      "kr": 1,
+      "acao": "Lançar campanha institucional de reciclagem",
+      "comentario": "Artes aprovadas e enviadas para agência"
+    }
+  ],
+  "suprimentos": [
+    {
+      "kr": 1,
+      "acao": "Cotação de novos insumos de embalagens",
+      "comentario": "Aguardando 3º orçamento de fornecedores homologados"
+    }
+  ],
+  "fiscal_financeiro": [
+    {
+      "kr": 1,
+      "acao": "Auditoria interna do fechamento trimestral",
+      "comentario": "Relatórios enviados sem pendências"
+    }
+  ],
+  "gestao_de_pessoas": [
+    {
+      "kr": 1,
+      "acao": "Programa de integração de novos colaboradores",
+      "comentario": "Treinamento realizado para a equipe operacional"
+    }
+  ],
+  "sgi": [
+    {
+      "kr": 1,
+      "acao": "Renovação das certificações ISO",
+      "comentario": "Auditoria externa agendada"
+    }
+  ],
+  "r3use": [
+    {
+      "kr": 1,
+      "acao": "Testes de recondicionamento do lote X",
+      "comentario": "Resultados iniciais com 85% de aproveitamento"
+    }
+  ],
+  "infraestrutura": [
+    {
+      "kr": 1,
+      "acao": "Manutenção preventiva do galpão principal",
+      "comentario": "Serviço agendado para o próximo final de semana"
+    }
+  ],
+  "recebimento_expedicao": [
+    {
+      "kr": 1,
+      "acao": "Implementar bipagem no recebimento de cargas",
+      "comentario": "Leitores instalados e operando"
+    }
+  ],
+  "gestao_de_residuos": [
+    {
+      "kr": 1,
+      "acao": "Emissão de MTRs para descarte adequado",
+      "comentario": "Documentação 100% atualizada no sistema estadual"
+    }
+  ],
+  "logistica": [
+    {
+      "kr": 1,
+      "acao": "Roteirização das frotas de coleta",
+      "comentario": "Redução de 12% no tempo de rota observado"
+    }
+  ],
+  "tecnologia": [
+    {
+      "kr": 1,
+      "acao": "Migração dos servidores para nuvem",
+      "comentario": "Fase de testes concluída sem interrupções"
+    }
+  ]
+}

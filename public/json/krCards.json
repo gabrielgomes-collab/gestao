@@ -1,0 +1,1329 @@
+{
+  "executivo": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Implantar modelo integrado de gestão estratégica e acompanhamento de resultados.",
+      "subtitulo": "Ausência de uma visão consolidada dificulta decisões rápidas e priorização.",
+      "progresso": 68,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Definir indicadores estratégicos prioritários.",
+          "kpi": "Indicadores definidos",
+          "meta": "Mapear e validar 100% dos indicadores estratégicos.",
+          "peso": 25,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 15,
+          "orcamento": 12000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Criar painel executivo de acompanhamento.",
+          "kpi": "Dashboard publicado",
+          "meta": "Disponibilizar painel com indicadores estratégicos atualizados.",
+          "peso": 35,
+          "progresso": 80,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Gabriel Bauso",
+            "Beatriz"
+          ],
+          "prazoDias": 30,
+          "orcamento": 45000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Implantar rotina mensal de análise.",
+          "kpi": "Reuniões realizadas",
+          "meta": "Realizar reuniões mensais com registro de decisões e responsáveis.",
+          "peso": 40,
+          "progresso": 35,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Diretoria"
+          ],
+          "prazoDias": 60,
+          "orcamento": 8000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Fortalecer a governança e a tomada de decisão baseada em dados.",
+      "subtitulo": "Decisões ainda dependem de informações distribuídas entre diferentes áreas.",
+      "progresso": 42,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Definir calendário de reuniões estratégicas.",
+          "kpi": "Calendário definido",
+          "meta": "Formalizar agenda anual de reuniões.",
+          "peso": 40,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Diretoria"
+          ],
+          "prazoDias": 20,
+          "orcamento": 5000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Criar matriz de responsabilidades executivas.",
+          "kpi": "Matriz publicada",
+          "meta": "Definir responsáveis por 100% dos processos estratégicos.",
+          "peso": 60,
+          "progresso": 25,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 45,
+          "orcamento": 3000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "KR 3",
+      "titulo": "Aumentar a rentabilidade e eficiência financeira do negócio.",
+      "subtitulo": "Necessidade de maior controle sobre custos e retorno dos investimentos.",
+      "progresso": 31,
+      "metaProgresso": 100,
+      "acoes": []
+    }
+  ],
+  "operacional": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Reduzir perdas e aumentar a produtividade das operações.",
+      "subtitulo": "Processos produtivos apresentam oportunidades de redução de desperdícios.",
+      "progresso": 54,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear principais fontes de perdas operacionais.",
+          "kpi": "Mapa de perdas",
+          "meta": "Identificar 100% das principais perdas.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Carlos",
+            "Marcos"
+          ],
+          "prazoDias": 20,
+          "orcamento": 15000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Implantar plano de redução de desperdícios.",
+          "kpi": "Índice de perdas",
+          "meta": "Reduzir perdas operacionais em pelo menos 15%.",
+          "peso": 40,
+          "progresso": 55,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Carlos"
+          ],
+          "prazoDias": 60,
+          "orcamento": 90000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Padronizar procedimentos críticos.",
+          "kpi": "Procedimentos padronizados",
+          "meta": "Padronizar os 10 procedimentos de maior impacto.",
+          "peso": 30,
+          "progresso": 40,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Marcos"
+          ],
+          "prazoDias": 45,
+          "orcamento": 25000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Aumentar a disponibilidade dos equipamentos críticos.",
+      "subtitulo": "Paradas não planejadas impactam diretamente a capacidade operacional.",
+      "progresso": 37,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Classificar equipamentos por criticidade.",
+          "kpi": "Matriz de criticidade",
+          "meta": "Classificar 100% dos equipamentos.",
+          "peso": 35,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Marcos"
+          ],
+          "prazoDias": 30,
+          "orcamento": 10000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Criar plano de manutenção preventiva.",
+          "kpi": "Plano preventivo",
+          "meta": "Implantar plano para todos os equipamentos críticos.",
+          "peso": 65,
+          "progresso": 20,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Marcos",
+            "João"
+          ],
+          "prazoDias": 90,
+          "orcamento": 120000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "KR 3",
+      "titulo": "Implantar indicadores de produtividade por operação.",
+      "subtitulo": "Acompanhamento de produtividade ainda não é uniforme.",
+      "progresso": 18,
+      "metaProgresso": 100,
+      "acoes": []
+    }
+  ],
+  "comercial": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Aumentar a conversão de oportunidades comerciais.",
+      "subtitulo": "Parte relevante das oportunidades não evolui para propostas.",
+      "progresso": 73,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Revisar etapas do funil comercial.",
+          "kpi": "Funil revisado",
+          "meta": "Redesenhar 100% das etapas do funil.",
+          "peso": 25,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Fernanda"
+          ],
+          "prazoDias": 15,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Criar rotina de acompanhamento de leads.",
+          "kpi": "Taxa de follow-up",
+          "meta": "Garantir acompanhamento de 95% dos leads ativos.",
+          "peso": 35,
+          "progresso": 90,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Fernanda",
+            "Rafael"
+          ],
+          "prazoDias": 30,
+          "orcamento": 7000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Implantar metodologia de qualificação.",
+          "kpi": "Leads qualificados",
+          "meta": "Qualificar pelo menos 90% das novas oportunidades.",
+          "peso": 40,
+          "progresso": 55,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Rafael"
+          ],
+          "prazoDias": 45,
+          "orcamento": 12000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Expandir a carteira de clientes estratégicos.",
+      "subtitulo": "A concentração de receita em poucos clientes aumenta o risco comercial.",
+      "progresso": 48,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear clientes-alvo prioritários.",
+          "kpi": "Clientes mapeados",
+          "meta": "Selecionar 30 contas estratégicas.",
+          "peso": 40,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Fernanda"
+          ],
+          "prazoDias": 20,
+          "orcamento": 3000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Executar plano de prospecção.",
+          "kpi": "Novas oportunidades",
+          "meta": "Gerar 20 novas oportunidades qualificadas.",
+          "peso": 60,
+          "progresso": 45,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Equipe Comercial"
+          ],
+          "prazoDias": 60,
+          "orcamento": 25000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "KR 3",
+      "titulo": "Melhorar previsibilidade do faturamento.",
+      "subtitulo": "As previsões comerciais apresentam variações relevantes.",
+      "progresso": 29,
+      "metaProgresso": 100,
+      "acoes": []
+    }
+  ],
+  "marketing": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Fortalecer a geração de oportunidades qualificadas.",
+      "subtitulo": "A geração de demanda ainda depende de ações pontuais.",
+      "progresso": 61,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Definir calendário editorial.",
+          "kpi": "Calendário publicado",
+          "meta": "Planejar conteúdo para os próximos seis meses.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Juliana"
+          ],
+          "prazoDias": 15,
+          "orcamento": 8000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Criar campanhas segmentadas.",
+          "kpi": "Leads gerados",
+          "meta": "Gerar 150 leads qualificados por campanhas digitais.",
+          "peso": 40,
+          "progresso": 60,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Juliana",
+            "Bruno"
+          ],
+          "prazoDias": 45,
+          "orcamento": 35000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Mensurar desempenho dos canais.",
+          "kpi": "ROI por canal",
+          "meta": "Mensurar 100% dos principais canais de aquisição.",
+          "peso": 30,
+          "progresso": 30,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Bruno"
+          ],
+          "prazoDias": 50,
+          "orcamento": 10000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Consolidar posicionamento institucional da marca.",
+      "subtitulo": "A comunicação externa apresenta oportunidades de maior consistência.",
+      "progresso": 45,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Revisar identidade e mensagens institucionais.",
+          "kpi": "Guia institucional",
+          "meta": "Atualizar mensagens-chave da marca.",
+          "peso": 50,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Juliana"
+          ],
+          "prazoDias": 40,
+          "orcamento": 18000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Atualizar materiais institucionais.",
+          "kpi": "Materiais atualizados",
+          "meta": "Atualizar apresentações e materiais comerciais.",
+          "peso": 50,
+          "progresso": 20,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Bruno"
+          ],
+          "prazoDias": 60,
+          "orcamento": 22000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "suprimentos": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Reduzir custos de aquisição de materiais.",
+      "subtitulo": "Existe potencial de economia por meio de negociação e consolidação de compras.",
+      "progresso": 39,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear fornecedores estratégicos.",
+          "kpi": "Fornecedores mapeados",
+          "meta": "Classificar 100% dos principais fornecedores.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Ana"
+          ],
+          "prazoDias": 20,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Renegociar contratos prioritários.",
+          "kpi": "Economia obtida",
+          "meta": "Reduzir custos dos contratos prioritários em 8%.",
+          "peso": 70,
+          "progresso": 35,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Ana",
+            "Paulo"
+          ],
+          "prazoDias": 75,
+          "orcamento": 15000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Melhorar prazo médio de abastecimento.",
+      "subtitulo": "Atrasos no abastecimento afetam a continuidade das operações.",
+      "progresso": 27,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Criar indicador de prazo dos fornecedores.",
+          "kpi": "Lead time",
+          "meta": "Monitorar 100% dos fornecedores críticos.",
+          "peso": 45,
+          "progresso": 60,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Paulo"
+          ],
+          "prazoDias": 30,
+          "orcamento": 6000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Estabelecer planos de contingência.",
+          "kpi": "Planos de contingência",
+          "meta": "Criar alternativas para os principais itens críticos.",
+          "peso": 55,
+          "progresso": 10,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Ana"
+          ],
+          "prazoDias": 90,
+          "orcamento": 18000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "fiscal_financeiro": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Aumentar a previsibilidade do fluxo de caixa.",
+      "subtitulo": "Informações financeiras precisam estar disponíveis com maior antecedência.",
+      "progresso": 82,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Padronizar fechamento financeiro mensal.",
+          "kpi": "Fechamento padronizado",
+          "meta": "Concluir fechamento até o quinto dia útil.",
+          "peso": 40,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Patrícia"
+          ],
+          "prazoDias": 20,
+          "orcamento": 9000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Implantar projeção de caixa.",
+          "kpi": "Projeção de caixa",
+          "meta": "Projetar fluxo de caixa para os próximos 90 dias.",
+          "peso": 60,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Patrícia",
+            "Eduardo"
+          ],
+          "prazoDias": 40,
+          "orcamento": 15000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Reduzir inconsistências fiscais.",
+      "subtitulo": "Processos manuais aumentam o risco de divergências e retrabalho.",
+      "progresso": 66,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Revisar obrigações fiscais recorrentes.",
+          "kpi": "Obrigações revisadas",
+          "meta": "Revisar 100% das obrigações recorrentes.",
+          "peso": 50,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Eduardo"
+          ],
+          "prazoDias": 25,
+          "orcamento": 7000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Criar rotina de conferência automatizada.",
+          "kpi": "Índice de divergências",
+          "meta": "Reduzir divergências fiscais em 50%.",
+          "peso": 50,
+          "progresso": 32,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Eduardo"
+          ],
+          "prazoDias": 60,
+          "orcamento": 30000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "gestao_de_pessoas": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Estruturar trilhas de desenvolvimento profissional.",
+      "subtitulo": "A empresa precisa de critérios mais claros para evolução dos colaboradores.",
+      "progresso": 35,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear competências por função.",
+          "kpi": "Matriz de competências",
+          "meta": "Mapear competências de 100% das funções prioritárias.",
+          "peso": 40,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Camila"
+          ],
+          "prazoDias": 45,
+          "orcamento": 12000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Criar trilhas de desenvolvimento.",
+          "kpi": "Trilhas criadas",
+          "meta": "Criar trilhas para as principais funções.",
+          "peso": 60,
+          "progresso": 10,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Camila",
+            "Renata"
+          ],
+          "prazoDias": 90,
+          "orcamento": 35000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Melhorar o processo de integração de novos colaboradores.",
+      "subtitulo": "O processo atual possui etapas pouco padronizadas.",
+      "progresso": 58,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Padronizar onboarding.",
+          "kpi": "Onboarding padronizado",
+          "meta": "Implantar checklist de integração.",
+          "peso": 50,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Renata"
+          ],
+          "prazoDias": 20,
+          "orcamento": 6000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Criar materiais de integração.",
+          "kpi": "Kit de integração",
+          "meta": "Disponibilizar materiais para 100% dos novos colaboradores.",
+          "peso": 50,
+          "progresso": 45,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Renata"
+          ],
+          "prazoDias": 45,
+          "orcamento": 10000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "KR 3",
+      "titulo": "Aumentar o índice de retenção de talentos.",
+      "subtitulo": "A retenção de profissionais estratégicos é uma prioridade.",
+      "progresso": 24,
+      "metaProgresso": 100,
+      "acoes": []
+    }
+  ],
+  "sgi": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Fortalecer o sistema integrado de gestão.",
+      "subtitulo": "Há oportunidades de integração entre processos de qualidade, segurança e meio ambiente.",
+      "progresso": 50,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Revisar procedimentos integrados.",
+          "kpi": "Procedimentos revisados",
+          "meta": "Revisar 100% dos procedimentos críticos.",
+          "peso": 50,
+          "progresso": 80,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Luciana"
+          ],
+          "prazoDias": 40,
+          "orcamento": 10000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Criar painel de indicadores SGI.",
+          "kpi": "Painel SGI",
+          "meta": "Disponibilizar indicadores de SGI em painel único.",
+          "peso": 50,
+          "progresso": 20,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Luciana",
+            "Rogério"
+          ],
+          "prazoDias": 60,
+          "orcamento": 18000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Reduzir ocorrências de não conformidade.",
+      "subtitulo": "Parte das não conformidades apresenta recorrência.",
+      "progresso": 43,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Classificar causas das ocorrências.",
+          "kpi": "Causas classificadas",
+          "meta": "Classificar 100% das ocorrências registradas.",
+          "peso": 40,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Rogério"
+          ],
+          "prazoDias": 25,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Implantar planos de ação preventivos.",
+          "kpi": "Recorrência reduzida",
+          "meta": "Reduzir reincidências em 30%.",
+          "peso": 60,
+          "progresso": 25,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Rogério"
+          ],
+          "prazoDias": 70,
+          "orcamento": 14000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "r3use": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Desenvolver novas oportunidades de negócio em economia circular.",
+      "subtitulo": "Existe potencial para ampliar o portfólio de soluções sustentáveis.",
+      "progresso": 12,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear mercados potenciais.",
+          "kpi": "Mercados mapeados",
+          "meta": "Identificar pelo menos 10 mercados potenciais.",
+          "peso": 40,
+          "progresso": 30,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "André"
+          ],
+          "prazoDias": 45,
+          "orcamento": 12000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Validar três modelos de negócio.",
+          "kpi": "Modelos validados",
+          "meta": "Validar viabilidade de três novos modelos.",
+          "peso": 60,
+          "progresso": 0,
+          "status": "NÃO INICIADO",
+          "responsaveis": [
+            "André",
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 90,
+          "orcamento": 25000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "infraestrutura": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Modernizar a infraestrutura física das unidades.",
+      "subtitulo": "Parte da infraestrutura apresenta necessidade de adequações.",
+      "progresso": 65,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Levantar necessidades de manutenção.",
+          "kpi": "Levantamento concluído",
+          "meta": "Inspecionar 100% das áreas prioritárias.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Roberto"
+          ],
+          "prazoDias": 30,
+          "orcamento": 15000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Executar adequações prioritárias.",
+          "kpi": "Adequações realizadas",
+          "meta": "Concluir 80% das adequações classificadas como críticas.",
+          "peso": 70,
+          "progresso": 50,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Roberto",
+            "Sérgio"
+          ],
+          "prazoDias": 90,
+          "orcamento": 180000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Melhorar eficiência energética.",
+      "subtitulo": "Há oportunidades de redução de consumo nas instalações.",
+      "progresso": 41,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear principais consumidores.",
+          "kpi": "Mapa energético",
+          "meta": "Identificar os 20 maiores pontos de consumo.",
+          "peso": 40,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Sérgio"
+          ],
+          "prazoDias": 25,
+          "orcamento": 6000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Implantar medidas de eficiência.",
+          "kpi": "Consumo reduzido",
+          "meta": "Reduzir consumo energético em 10%.",
+          "peso": 60,
+          "progresso": 15,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Sérgio"
+          ],
+          "prazoDias": 120,
+          "orcamento": 90000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "recebimento_expedicao": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Reduzir tempo de processamento de recebimentos e expedições.",
+      "subtitulo": "O fluxo atual possui etapas que geram filas e retrabalho.",
+      "progresso": 55,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear fluxo de entrada e saída.",
+          "kpi": "Fluxo mapeado",
+          "meta": "Mapear todas as etapas do processo.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Diego"
+          ],
+          "prazoDias": 15,
+          "orcamento": 4000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Redesenhar fluxo operacional.",
+          "kpi": "Tempo de processamento",
+          "meta": "Reduzir tempo médio de processamento em 20%.",
+          "peso": 40,
+          "progresso": 60,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Diego",
+            "Lucas"
+          ],
+          "prazoDias": 45,
+          "orcamento": 20000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Implantar conferência padronizada.",
+          "kpi": "Erros de conferência",
+          "meta": "Reduzir erros de conferência em 50%.",
+          "peso": 30,
+          "progresso": 25,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Lucas"
+          ],
+          "prazoDias": 60,
+          "orcamento": 12000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Aumentar rastreabilidade das movimentações.",
+      "subtitulo": "Informações de movimentação ainda possuem registros manuais.",
+      "progresso": 34,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Padronizar registros de movimentação.",
+          "kpi": "Registros digitais",
+          "meta": "Digitalizar 100% dos registros críticos.",
+          "peso": 50,
+          "progresso": 55,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Diego"
+          ],
+          "prazoDias": 50,
+          "orcamento": 15000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Criar indicador de rastreabilidade.",
+          "kpi": "Rastreabilidade",
+          "meta": "Atingir 95% de rastreabilidade.",
+          "peso": 50,
+          "progresso": 10,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Lucas"
+          ],
+          "prazoDias": 75,
+          "orcamento": 18000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "gestao_de_residuos": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Aumentar o índice de reaproveitamento de resíduos.",
+      "subtitulo": "O processo atual já apresenta bons resultados, mas ainda há materiais com potencial de reaproveitamento.",
+      "progresso": 100,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Classificar resíduos por potencial de reaproveitamento.",
+          "kpi": "Resíduos classificados",
+          "meta": "Classificar 100% dos resíduos gerados.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Helena"
+          ],
+          "prazoDias": 20,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Ampliar parceiros de reaproveitamento.",
+          "kpi": "Parceiros ativos",
+          "meta": "Cadastrar cinco novos parceiros.",
+          "peso": 35,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Helena"
+          ],
+          "prazoDias": 45,
+          "orcamento": 8000,
+          "concluido": true
+        },
+        {
+          "numero": 3,
+          "acao": "Implantar monitoramento mensal.",
+          "kpi": "Índice de reaproveitamento",
+          "meta": "Monitorar mensalmente 100% dos volumes.",
+          "peso": 35,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Helena",
+            "Rafael"
+          ],
+          "prazoDias": 60,
+          "orcamento": 7000,
+          "concluido": true
+        }
+      ]
+    }
+  ],
+  "logistica": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Otimizar rotas e reduzir custos logísticos.",
+      "subtitulo": "A operação possui oportunidades de redução de quilômetros percorridos.",
+      "progresso": 50,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear rotas recorrentes.",
+          "kpi": "Rotas mapeadas",
+          "meta": "Mapear 100% das rotas recorrentes.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Fábio"
+          ],
+          "prazoDias": 25,
+          "orcamento": 6000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Reorganizar planejamento de cargas.",
+          "kpi": "Ocupação dos veículos",
+          "meta": "Aumentar ocupação média em 15%.",
+          "peso": 40,
+          "progresso": 45,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Fábio",
+            "Marcelo"
+          ],
+          "prazoDias": 60,
+          "orcamento": 35000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Monitorar custo por rota.",
+          "kpi": "Custo por rota",
+          "meta": "Monitorar 100% das rotas relevantes.",
+          "peso": 30,
+          "progresso": 30,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Marcelo"
+          ],
+          "prazoDias": 45,
+          "orcamento": 9000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Melhorar nível de serviço das entregas.",
+      "subtitulo": "Atrasos afetam a percepção dos clientes e aumentam custos.",
+      "progresso": 36,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Criar indicador de entregas no prazo.",
+          "kpi": "OTIF",
+          "meta": "Acompanhar 100% das entregas.",
+          "peso": 40,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Fábio"
+          ],
+          "prazoDias": 30,
+          "orcamento": 5000,
+          "concluido": false
+        },
+        {
+          "numero": 2,
+          "acao": "Reduzir ocorrências de atraso.",
+          "kpi": "Atrasos",
+          "meta": "Reduzir atrasos em 20%.",
+          "peso": 60,
+          "progresso": 15,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Marcelo"
+          ],
+          "prazoDias": 75,
+          "orcamento": 22000,
+          "concluido": false
+        }
+      ]
+    }
+  ],
+  "tecnologia": [
+    {
+      "id": 1,
+      "tag": "KR 1",
+      "titulo": "Modernizar sistemas internos e ampliar integração de dados.",
+      "subtitulo": "Sistemas desconectados aumentam trabalho manual e dificultam a consolidação das informações.",
+      "progresso": 81,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear sistemas e integrações existentes.",
+          "kpi": "Mapa de sistemas",
+          "meta": "Documentar 100% dos sistemas utilizados.",
+          "peso": 20,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Beatriz"
+          ],
+          "prazoDias": 20,
+          "orcamento": 8000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Definir arquitetura de integração.",
+          "kpi": "Arquitetura definida",
+          "meta": "Definir arquitetura para os principais sistemas.",
+          "peso": 25,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Beatriz",
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 35,
+          "orcamento": 15000,
+          "concluido": true
+        },
+        {
+          "numero": 3,
+          "acao": "Implantar integrações prioritárias.",
+          "kpi": "Integrações ativas",
+          "meta": "Integrar os cinco sistemas prioritários.",
+          "peso": 35,
+          "progresso": 70,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Beatriz",
+            "Alcir"
+          ],
+          "prazoDias": 90,
+          "orcamento": 150000,
+          "concluido": false
+        },
+        {
+          "numero": 4,
+          "acao": "Criar monitoramento de aplicações.",
+          "kpi": "Sistemas monitorados",
+          "meta": "Monitorar disponibilidade dos sistemas críticos.",
+          "peso": 20,
+          "progresso": 45,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Alcir"
+          ],
+          "prazoDias": 60,
+          "orcamento": 50000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "KR 2",
+      "titulo": "Aumentar a segurança da informação.",
+      "subtitulo": "A evolução dos sistemas exige controles de segurança mais consistentes.",
+      "progresso": 63,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Revisar permissões de acesso.",
+          "kpi": "Acessos revisados",
+          "meta": "Revisar 100% dos acessos críticos.",
+          "peso": 35,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Alcir"
+          ],
+          "prazoDias": 30,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Implantar autenticação reforçada.",
+          "kpi": "MFA ativo",
+          "meta": "Ativar autenticação multifator nos sistemas prioritários.",
+          "peso": 35,
+          "progresso": 75,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Alcir",
+            "Beatriz"
+          ],
+          "prazoDias": 45,
+          "orcamento": 18000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Executar testes de segurança.",
+          "kpi": "Vulnerabilidades corrigidas",
+          "meta": "Corrigir 100% das vulnerabilidades críticas encontradas.",
+          "peso": 30,
+          "progresso": 20,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Alcir"
+          ],
+          "prazoDias": 90,
+          "orcamento": 45000,
+          "concluido": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "KR 3",
+      "titulo": "Ampliar uso de inteligência artificial nos processos internos.",
+      "subtitulo": "Há oportunidades de automatização e apoio à decisão por IA.",
+      "progresso": 47,
+      "metaProgresso": 100,
+      "acoes": [
+        {
+          "numero": 1,
+          "acao": "Mapear processos candidatos à IA.",
+          "kpi": "Processos mapeados",
+          "meta": "Identificar pelo menos 15 oportunidades.",
+          "peso": 30,
+          "progresso": 100,
+          "status": "CONCLUÍDO",
+          "responsaveis": [
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 30,
+          "orcamento": 5000,
+          "concluido": true
+        },
+        {
+          "numero": 2,
+          "acao": "Desenvolver pilotos de IA.",
+          "kpi": "Pilotos ativos",
+          "meta": "Colocar três pilotos em produção.",
+          "peso": 40,
+          "progresso": 35,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Gabriel Bauso",
+            "Beatriz"
+          ],
+          "prazoDias": 90,
+          "orcamento": 60000,
+          "concluido": false
+        },
+        {
+          "numero": 3,
+          "acao": "Medir ganhos de produtividade.",
+          "kpi": "Horas economizadas",
+          "meta": "Mensurar ganhos dos pilotos implantados.",
+          "peso": 30,
+          "progresso": 10,
+          "status": "EM ANDAMENTO",
+          "responsaveis": [
+            "Gabriel Bauso"
+          ],
+          "prazoDias": 120,
+          "orcamento": 15000,
+          "concluido": false
+        }
+      ]
+    }
+  ]
+}

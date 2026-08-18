@@ -1,0 +1,156 @@
+{
+  "executivo": {
+    "progresso_geral": 14,
+    "krs": 6,
+    "acoes": 42,
+    "acoes_concluidas": 8,
+    "acoes_iniciadas": 14,
+    "acoes_nao_iniciadas": 20,
+    "em_atraso": 18,
+    "vencendo": 0,
+    "orcamento_previsto": 1613600
+  },
+  "operacional": {
+    "progresso_geral": 33,
+    "krs": 3,
+    "acoes": 15,
+    "acoes_concluidas": 5,
+    "acoes_iniciadas": 5,
+    "acoes_nao_iniciadas": 5,
+    "em_atraso": 6,
+    "vencendo": 0,
+    "orcamento_previsto": 400000
+  },
+  "comercial": {
+    "progresso_geral": 62,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 6,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 2,
+    "em_atraso": 4,
+    "vencendo": 0,
+    "orcamento_previsto": 380000
+  },
+  "marketing": {
+    "progresso_geral": 42,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 4,
+    "acoes_iniciadas": 4,
+    "acoes_nao_iniciadas": 2,
+    "em_atraso": 2,
+    "vencendo": 0,
+    "orcamento_previsto": 205000
+  },
+  "suprimentos": {
+    "progresso_geral": 5,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 1,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 7,
+    "em_atraso": 7,
+    "vencendo": 0,
+    "orcamento_previsto": 160000
+  },
+  "fiscal_financeiro": {
+    "progresso_geral": 82,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 8,
+    "acoes_iniciadas": 1,
+    "acoes_nao_iniciadas": 1,
+    "em_atraso": 1,
+    "vencendo": 0,
+    "orcamento_previsto": 110000
+  },
+  "gestao_de_pessoas": {
+    "progresso_geral": 35,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 3,
+    "acoes_iniciadas": 4,
+    "acoes_nao_iniciadas": 3,
+    "em_atraso": 3,
+    "vencendo": 0,
+    "orcamento_previsto": 170000
+  },
+  "sgi": {
+    "progresso_geral": 50,
+    "krs": 1,
+    "acoes": 5,
+    "acoes_concluidas": 2,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 1,
+    "em_atraso": 0,
+    "vencendo": 0,
+    "orcamento_previsto": 45000
+  },
+  "r3use": {
+    "progresso_geral": 12,
+    "krs": 1,
+    "acoes": 5,
+    "acoes_concluidas": 1,
+    "acoes_iniciadas": 1,
+    "acoes_nao_iniciadas": 3,
+    "em_atraso": 1,
+    "vencendo": 0,
+    "orcamento_previsto": 30000
+  },
+  "infraestrutura": {
+    "progresso_geral": 65,
+    "krs": 1,
+    "acoes": 5,
+    "acoes_concluidas": 3,
+    "acoes_iniciadas": 1,
+    "acoes_nao_iniciadas": 1,
+    "em_atraso": 2,
+    "vencendo": 0,
+    "orcamento_previsto": 220000
+  },
+  "recebimento_expedicao": {
+    "progresso_geral": 55,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 5,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 3,
+    "em_atraso": 3,
+    "vencendo": 0,
+    "orcamento_previsto": 160000
+  },
+  "gestao_de_residuos": {
+    "progresso_geral": 100,
+    "krs": 1,
+    "acoes": 5,
+    "acoes_concluidas": 5,
+    "acoes_iniciadas": 0,
+    "acoes_nao_iniciadas": 0,
+    "em_atraso": 0,
+    "vencendo": 0,
+    "orcamento_previsto": 40000
+  },
+  "logistica": {
+    "progresso_geral": 50,
+    "krs": 2,
+    "acoes": 10,
+    "acoes_concluidas": 5,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 3,
+    "em_atraso": 3,
+    "vencendo": 0,
+    "orcamento_previsto": 270000
+  },
+  "tecnologia": {
+    "progresso_geral": 81,
+    "krs": 3,
+    "acoes": 15,
+    "acoes_concluidas": 12,
+    "acoes_iniciadas": 2,
+    "acoes_nao_iniciadas": 1,
+    "em_atraso": 1,
+    "vencendo": 0,
+    "orcamento_previsto": 580000
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "executivo": [
+    { "nomeKr": "kr1", "progresso": 10, "orcamento": 268900, "acoes_em_atraso": 2 },
+    { "nomeKr": "kr2", "progresso": 20, "orcamento": 268900, "acoes_em_atraso": 0 },
+    { "nomeKr": "kr3", "progresso": 30, "orcamento": 268900, "acoes_em_atraso": 1 },
+    { "nomeKr": "kr4", "progresso": 40, "orcamento": 268900, "acoes_em_atraso": 3 },
+    { "nomeKr": "kr5", "progresso": 50, "orcamento": 268900, "acoes_em_atraso": 0 },
+    { "nomeKr": "kr6", "progresso": 60, "orcamento": 269100, "acoes_em_atraso": 1 }
+  ],
+  "operacional": [
+    { "nomeKr": "kr1", "progresso": 15, "orcamento": 120000, "acoes_em_atraso": 4 },
+    { "nomeKr": "kr2", "progresso": 35, "orcamento": 150000, "acoes_em_atraso": 2 },
+    { "nomeKr": "kr3", "progresso": 50, "orcamento": 130000, "acoes_em_atraso": 0 }
+  ],
+  "comercial": [
+    { "nomeKr": "kr1", "progresso": 80, "orcamento": 200000, "acoes_em_atraso": 1 },
+    { "nomeKr": "kr2", "progresso": 45, "orcamento": 180000, "acoes_em_atraso": 3 }
+  ],
+  "marketing": [
+    { "nomeKr": "kr1", "progresso": 25, "orcamento": 95000, "acoes_em_atraso": 2 },
+    { "nomeKr": "kr2", "progresso": 60, "orcamento": 110000, "acoes_em_atraso": 0 }
+  ],
+  "suprimentos": [
+    { "nomeKr": "kr1", "progresso": 0, "orcamento": 85000, "acoes_em_atraso": 5 },
+    { "nomeKr": "kr2", "progresso": 10, "orcamento": 75000, "acoes_em_atraso": 2 }
+  ],
+  "fiscal_financeiro": [
+    { "nomeKr": "kr1", "progresso": 90, "orcamento": 50000, "acoes_em_atraso": 0 },
+    { "nomeKr": "kr2", "progresso": 75, "orcamento": 60000, "acoes_em_atraso": 1 }
+  ],
+  "gestao_de_pessoas": [
+    { "nomeKr": "kr1", "progresso": 40, "orcamento": 90000, "acoes_em_atraso": 1 },
+    { "nomeKr": "kr2", "progresso": 30, "orcamento": 80000, "acoes_em_atraso": 2 }
+  ],
+  "sgi": [
+    { "nomeKr": "kr1", "progresso": 50, "orcamento": 45000, "acoes_em_atraso": 0 }
+  ],
+  "r3use": [
+    { "nomeKr": "kr1", "progresso": 12, "orcamento": 30000, "acoes_em_atraso": 1 }
+  ],
+  "infraestrutura": [
+    { "nomeKr": "kr1", "progresso": 65, "orcamento": 220000, "acoes_em_atraso": 2 }
+  ],
+  "recebimento_expedicao": [
+    { "nomeKr": "kr1", "progresso": 30, "orcamento": 70000, "acoes_em_atraso": 3 },
+    { "nomeKr": "kr2", "progresso": 80, "orcamento": 90000, "acoes_em_atraso": 0 }
+  ],
+  "gestao_de_residuos": [
+    { "nomeKr": "kr1", "progresso": 100, "orcamento": 40000, "acoes_em_atraso": 0 }
+  ],
+  "logistica": [
+    { "nomeKr": "kr1", "progresso": 45, "orcamento": 130000, "acoes_em_atraso": 2 },
+    { "nomeKr": "kr2", "progresso": 55, "orcamento": 140000, "acoes_em_atraso": 1 }
+  ],
+  "tecnologia": [
+    { "nomeKr": "kr1", "progresso": 70, "orcamento": 180000, "acoes_em_atraso": 1 },
+    { "nomeKr": "kr2", "progresso": 85, "orcamento": 210000, "acoes_em_atraso": 0 },
+    { "nomeKr": "kr3", "progresso": 90, "orcamento": 190000, "acoes_em_atraso": 0 }
+  ]
+}
