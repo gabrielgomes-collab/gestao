@@ -8,6 +8,8 @@ import { useEffect, useState } from "react";
 import ConteudoAreasAlertaPrazo from "./Widgets/VisaoGeral/ConteudoAlertasPrazo";
 import ConteudoProgressoKr from "./Widgets/VisaoGeral/ConteudoProgressoKr";
 import ConteudoKrCard from "./Widgets/OkrsAcoes/ConteudoKrCard";
+import GraficoDesempenho from "./Components/Desempenho/GraficoDesemepenho";
+import ConteudoDesempenho from "./Widgets/Desempenho/ConteudoDesempenho";
 
 export default function Home() {
   const [departamento, setDepartamento] = useState<string>("executivo")
@@ -27,6 +29,9 @@ export default function Home() {
           <ConteudoKrCard departamento={departamento} />
         </>
       )
+    }
+    else if (tipoConteudo == 4){
+      setConteudo(<ConteudoDesempenho />)
     }
     else {
       setConteudo(<h1>Página {tipoConteudo}</h1>)

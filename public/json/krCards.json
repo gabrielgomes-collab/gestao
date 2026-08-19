@@ -7,6 +7,9 @@
       "subtitulo": "Ausência de uma visão consolidada dificulta decisões rápidas e priorização.",
       "progresso": 68,
       "metaProgresso": 100,
+      "orcamento": 537868,
+      "em_atraso": 7,
+      "nivel_atendimento": 68,
       "acoes": [
         {
           "numero": 1,
@@ -63,6 +66,9 @@
       "subtitulo": "Decisões ainda dependem de informações distribuídas entre diferentes áreas.",
       "progresso": 42,
       "metaProgresso": 100,
+      "orcamento": 537866,
+      "em_atraso": 5,
+      "nivel_atendimento": 42,
       "acoes": [
         {
           "numero": 1,
@@ -103,6 +109,9 @@
       "subtitulo": "Necessidade de maior controle sobre custos e retorno dos investimentos.",
       "progresso": 31,
       "metaProgresso": 100,
+      "orcamento": 537866,
+      "em_atraso": 6,
+      "nivel_atendimento": 31,
       "acoes": []
     }
   ],
@@ -114,6 +123,9 @@
       "subtitulo": "Processos produtivos apresentam oportunidades de redução de desperdícios.",
       "progresso": 54,
       "metaProgresso": 100,
+      "orcamento": 133334,
+      "em_atraso": 2,
+      "nivel_atendimento": 54,
       "acoes": [
         {
           "numero": 1,
@@ -170,6 +182,9 @@
       "subtitulo": "Paradas não planejadas impactam diretamente a capacidade operacional.",
       "progresso": 37,
       "metaProgresso": 100,
+      "orcamento": 133333,
+      "em_atraso": 2,
+      "nivel_atendimento": 37,
       "acoes": [
         {
           "numero": 1,
@@ -211,6 +226,9 @@
       "subtitulo": "Acompanhamento de produtividade ainda não é uniforme.",
       "progresso": 18,
       "metaProgresso": 100,
+      "orcamento": 133333,
+      "em_atraso": 2,
+      "nivel_atendimento": 18,
       "acoes": []
     }
   ],
@@ -222,6 +240,9 @@
       "subtitulo": "Parte relevante das oportunidades não evolui para propostas.",
       "progresso": 73,
       "metaProgresso": 100,
+      "orcamento": 126668,
+      "em_atraso": 2,
+      "nivel_atendimento": 73,
       "acoes": [
         {
           "numero": 1,
@@ -278,6 +299,9 @@
       "subtitulo": "A concentração de receita em poucos clientes aumenta o risco comercial.",
       "progresso": 48,
       "metaProgresso": 100,
+      "orcamento": 126666,
+      "em_atraso": 1,
+      "nivel_atendimento": 48,
       "acoes": [
         {
           "numero": 1,
@@ -318,6 +342,9 @@
       "subtitulo": "As previsões comerciais apresentam variações relevantes.",
       "progresso": 29,
       "metaProgresso": 100,
+      "orcamento": 126666,
+      "em_atraso": 1,
+      "nivel_atendimento": 29,
       "acoes": []
     }
   ],
@@ -329,6 +356,9 @@
       "subtitulo": "A geração de demanda ainda depende de ações pontuais.",
       "progresso": 61,
       "metaProgresso": 100,
+      "orcamento": 102500,
+      "em_atraso": 1,
+      "nivel_atendimento": 61,
       "acoes": [
         {
           "numero": 1,
@@ -385,6 +415,9 @@
       "subtitulo": "A comunicação externa apresenta oportunidades de maior consistência.",
       "progresso": 45,
       "metaProgresso": 100,
+      "orcamento": 102500,
+      "em_atraso": 1,
+      "nivel_atendimento": 45,
       "acoes": [
         {
           "numero": 1,
@@ -427,6 +460,9 @@
       "subtitulo": "Existe potencial de economia por meio de negociação e consolidação de compras.",
       "progresso": 39,
       "metaProgresso": 100,
+      "orcamento": 80000,
+      "em_atraso": 4,
+      "nivel_atendimento": 39,
       "acoes": [
         {
           "numero": 1,
@@ -468,6 +504,9 @@
       "subtitulo": "Atrasos no abastecimento afetam a continuidade das operações.",
       "progresso": 27,
       "metaProgresso": 100,
+      "orcamento": 80000,
+      "em_atraso": 3,
+      "nivel_atendimento": 27,
       "acoes": [
         {
           "numero": 1,
@@ -510,6 +549,9 @@
       "subtitulo": "Informações financeiras precisam estar disponíveis com maior antecedência.",
       "progresso": 82,
       "metaProgresso": 100,
+      "orcamento": 55000,
+      "em_atraso": 1,
+      "nivel_atendimento": 82,
       "acoes": [
         {
           "numero": 1,
@@ -551,6 +593,9 @@
       "subtitulo": "Processos manuais aumentam o risco de divergências e retrabalho.",
       "progresso": 66,
       "metaProgresso": 100,
+      "orcamento": 55000,
+      "em_atraso": 0,
+      "nivel_atendimento": 66,
       "acoes": [
         {
           "numero": 1,
@@ -593,6 +638,9 @@
       "subtitulo": "A empresa precisa de critérios mais claros para evolução dos colaboradores.",
       "progresso": 35,
       "metaProgresso": 100,
+      "orcamento": 56668,
+      "em_atraso": 1,
+      "nivel_atendimento": 35,
       "acoes": [
         {
           "numero": 1,
@@ -634,6 +682,9 @@
       "subtitulo": "O processo atual possui etapas pouco padronizadas.",
       "progresso": 58,
       "metaProgresso": 100,
+      "orcamento": 56666,
+      "em_atraso": 1,
+      "nivel_atendimento": 58,
       "acoes": [
         {
           "numero": 1,
@@ -674,6 +725,9 @@
       "subtitulo": "A retenção de profissionais estratégicos é uma prioridade.",
       "progresso": 24,
       "metaProgresso": 100,
+      "orcamento": 56666,
+      "em_atraso": 1,
+      "nivel_atendimento": 24,
       "acoes": []
     }
   ],
@@ -685,6 +739,9 @@
       "subtitulo": "Há oportunidades de integração entre processos de qualidade, segurança e meio ambiente.",
       "progresso": 50,
       "metaProgresso": 100,
+      "orcamento": 22500,
+      "em_atraso": 0,
+      "nivel_atendimento": 50,
       "acoes": [
         {
           "numero": 1,
@@ -726,6 +783,9 @@
       "subtitulo": "Parte das não conformidades apresenta recorrência.",
       "progresso": 43,
       "metaProgresso": 100,
+      "orcamento": 22500,
+      "em_atraso": 0,
+      "nivel_atendimento": 43,
       "acoes": [
         {
           "numero": 1,
@@ -768,6 +828,9 @@
       "subtitulo": "Existe potencial para ampliar o portfólio de soluções sustentáveis.",
       "progresso": 12,
       "metaProgresso": 100,
+      "orcamento": 30000,
+      "em_atraso": 1,
+      "nivel_atendimento": 12,
       "acoes": [
         {
           "numero": 1,
@@ -811,6 +874,9 @@
       "subtitulo": "Parte da infraestrutura apresenta necessidade de adequações.",
       "progresso": 65,
       "metaProgresso": 100,
+      "orcamento": 110000,
+      "em_atraso": 1,
+      "nivel_atendimento": 65,
       "acoes": [
         {
           "numero": 1,
@@ -852,6 +918,9 @@
       "subtitulo": "Há oportunidades de redução de consumo nas instalações.",
       "progresso": 41,
       "metaProgresso": 100,
+      "orcamento": 110000,
+      "em_atraso": 1,
+      "nivel_atendimento": 41,
       "acoes": [
         {
           "numero": 1,
@@ -894,6 +963,9 @@
       "subtitulo": "O fluxo atual possui etapas que geram filas e retrabalho.",
       "progresso": 55,
       "metaProgresso": 100,
+      "orcamento": 80000,
+      "em_atraso": 2,
+      "nivel_atendimento": 55,
       "acoes": [
         {
           "numero": 1,
@@ -950,6 +1022,9 @@
       "subtitulo": "Informações de movimentação ainda possuem registros manuais.",
       "progresso": 34,
       "metaProgresso": 100,
+      "orcamento": 80000,
+      "em_atraso": 1,
+      "nivel_atendimento": 34,
       "acoes": [
         {
           "numero": 1,
@@ -992,6 +1067,9 @@
       "subtitulo": "O processo atual já apresenta bons resultados, mas ainda há materiais com potencial de reaproveitamento.",
       "progresso": 100,
       "metaProgresso": 100,
+      "orcamento": 40000,
+      "em_atraso": 0,
+      "nivel_atendimento": 100,
       "acoes": [
         {
           "numero": 1,
@@ -1050,6 +1128,9 @@
       "subtitulo": "A operação possui oportunidades de redução de quilômetros percorridos.",
       "progresso": 50,
       "metaProgresso": 100,
+      "orcamento": 135000,
+      "em_atraso": 2,
+      "nivel_atendimento": 50,
       "acoes": [
         {
           "numero": 1,
@@ -1106,6 +1187,9 @@
       "subtitulo": "Atrasos afetam a percepção dos clientes e aumentam custos.",
       "progresso": 36,
       "metaProgresso": 100,
+      "orcamento": 135000,
+      "em_atraso": 1,
+      "nivel_atendimento": 36,
       "acoes": [
         {
           "numero": 1,
@@ -1148,6 +1232,9 @@
       "subtitulo": "Sistemas desconectados aumentam trabalho manual e dificultam a consolidação das informações.",
       "progresso": 81,
       "metaProgresso": 100,
+      "orcamento": 193334,
+      "em_atraso": 1,
+      "nivel_atendimento": 81,
       "acoes": [
         {
           "numero": 1,
@@ -1220,6 +1307,9 @@
       "subtitulo": "A evolução dos sistemas exige controles de segurança mais consistentes.",
       "progresso": 63,
       "metaProgresso": 100,
+      "orcamento": 193333,
+      "em_atraso": 0,
+      "nivel_atendimento": 63,
       "acoes": [
         {
           "numero": 1,
@@ -1276,6 +1366,9 @@
       "subtitulo": "Há oportunidades de automatização e apoio à decisão por IA.",
       "progresso": 47,
       "metaProgresso": 100,
+      "orcamento": 193333,
+      "em_atraso": 0,
+      "nivel_atendimento": 47,
       "acoes": [
         {
           "numero": 1,
