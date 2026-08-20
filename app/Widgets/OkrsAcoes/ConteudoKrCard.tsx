@@ -5,6 +5,19 @@ interface krCardsProps {
     titulo: string
     subtitulo: string
     progresso: number
+    acoes?: Array<{
+        numero: number
+        acao: string
+        kpi: string
+        meta: string
+        peso: number
+        progresso: number
+        status: string
+        responsaveis: string[]
+        prazoDias: number
+        orcamento: number
+        concluido: boolean
+    }>
 }
 
 interface ConteudoKrProps {
@@ -27,19 +40,37 @@ export default function ConteudoKrCard(props: ConteudoKrProps) {
         }
 
         resgatarDados()
-    }, [props.departamento])
+    }, [departamento])
+
     return (
         <div>
             <div className="flex justify-end gap-3">
-                <button className="p-2 rounded-lg border border-gray-400 bg-white font-bold
-                hover:bg-gray-400 hover:text-white hover:cursor-pointer transition-all">EXPORTAR</button>
-                <button className="p-2 rounded-lg bg-[#106b66] font-bold text-white
-                hover:bg-[#173637] hover:cursor-pointer transition-all">NOVO KR</button>
+                <button
+                    className="p-2 rounded-lg border border-gray-400 bg-white font-bold
+                    hover:bg-gray-400 hover:text-white hover:cursor-pointer transition-all"
+                >
+                    EXPORTAR
+                </button>
+
+                <button
+                    className="p-2 rounded-lg bg-[#106b66] font-bold text-white
+                    hover:bg-[#173637] hover:cursor-pointer transition-all"
+                >
+                    NOVO KR
+                </button>
             </div>
+
             <div className="flex flex-col gap-3 mt-4">
                 {krCards.map((item, index) => {
                     return (
-                        <KrCard key={`krCard${index + 1}`} numeroKr={index + 1} titulo={item.titulo} subtitulo={item.subtitulo} progresso={item.progresso} />
+                        <KrCard
+                            key={`krCard${index + 1}`}
+                            numeroKr={index + 1}
+                            titulo={item.titulo}
+                            subtitulo={item.subtitulo}
+                            progresso={item.progresso}
+                            acoes={item.acoes}
+                        />
                     )
                 })}
             </div>

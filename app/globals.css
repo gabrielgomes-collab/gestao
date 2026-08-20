@@ -26,22 +26,30 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-@layer utilities {
-  /* Para navegadores baseados em WebKit (Chrome, Safari, Edge) */
-  .custom-scrollbar::-webkit-scrollbar {
-    width: 6px; /* Largura da barra */
+@layer base {
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #98beec transparent;
+    /* Cor antiga --- scrollbar-color: #cbd5e1 transparent;*/
   }
 
-  .custom-scrollbar::-webkit-scrollbar-track {
-    background: transparent; /* Fundo do trilho */
+  /* Chrome, Edge e Safari */
+  *::-webkit-scrollbar {
+    width: 6px; /* Largura da barra vertical */
+    height: 6px; /* Altura da barra horizontal (se houver) */
   }
 
-  .custom-scrollbar::-webkit-scrollbar-thumb {
-    background: #cbd5e1; /* Cor da barra (ex: slate-300) */
-    border-radius: 9999px; /* Arredondado total */
+  *::-webkit-scrollbar-track {
+    background: transparent;
   }
 
-  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: #94a3b8; /* Cor da barra ao passar o mouse (ex: slate-400) */
+  *::-webkit-scrollbar-thumb {
+    background: #cbd5e1; 
+    border-radius: 9999px;
+  }
+
+  *::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8; 
   }
 }
