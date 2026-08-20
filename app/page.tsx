@@ -31,7 +31,7 @@ export default function Home() {
       )
     }
     else if (tipoConteudo == 4){
-      setConteudo(<ConteudoDesempenho />)
+      setConteudo(<ConteudoDesempenho departamento={departamento} />)
     }
     else {
       setConteudo(<h1>Página {tipoConteudo}</h1>)
